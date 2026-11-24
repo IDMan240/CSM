@@ -1,5 +1,10 @@
 <?php
 
+/*
+ * Calibration Management System
+ * Example database configuration
+ */
+
 $host = "YOUR_DATABASE_HOST";
 $dbname = "YOUR_DATABASE_NAME";
 $username = "YOUR_DATABASE_USERNAME";
