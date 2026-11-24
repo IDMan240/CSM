@@ -8,6 +8,12 @@ The Calibration Management System (CMS) provides a centralized platform for mana
 
 The system is designed to improve record management, support calibration workflows, and make equipment certification more organized and accessible.
 
+## Application Preview
+
+### Dashboard
+
+![Calibration Management System Dashboard](screenshots/dashboard.png)
+
 ## Key Features
 
 - User authentication and role-based access
