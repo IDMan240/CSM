@@ -1,5 +1,13 @@
 # Calibration Management System (CMS)
 
+![PHP](https://img.shields.io/badge/PHP-Backend-777BB4?logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Frontend-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-Frontend-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Styling-1572B6?logo=css3&logoColor=white)
+![Live Demo](https://img.shields.io/badge/Live-Demo-success)
+
+
 A web-based Calibration Management System designed to manage calibration records, equipment information, readings, and certification workflows.
 
 ## Overview
@@ -13,6 +21,22 @@ The system is designed to improve record management, support calibration workflo
 ### Dashboard
 
 ![Calibration Management System Dashboard](screenshots/dashboard.png)
+
+### Gauge Calibration
+
+![Gauge Calibration Form](screenshots/gauge-calibration.png)
+
+### Recorder Calibration
+
+![Recorder Calibration Form](screenshots/recorder-calibration.png)
+
+### Valve Certification
+
+![Valve Certification Form](screenshots/valve-certification.png)
+
+### Generated Calibration Certificate
+
+![Generated Calibration Certificate](screenshots/generated-certificate.png)
 
 ## Key Features
 
